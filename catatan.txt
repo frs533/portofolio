@@ -1,0 +1,27 @@
+Catatan:
+tbl_databarang
++ kolom material
++ kolom size
++ kolom warna
++ kolom tipe
++ kolom harga (ganti integer)
+
+Tabel profil digabung dengan tabel user
+hapus Tabel profil
+
+tbl_user
++ nama_pelanggan
++ alamat
+
+tbl_comment
++id_user
++id_barang
+
+tbl_ulasan
++id_user
+
+tbl_pesanan
++ total_biaya (ganti integer)
+
+tbl_transaksi
++ id_pesanan
